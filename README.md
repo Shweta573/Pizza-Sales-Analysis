@@ -9,7 +9,9 @@ Identify top-selling products: Determine the most popular pizza categories and s
 
 Scope:
 Sales metrics: Total revenue, average order value, total pizzas sold, and total orders.
+
 Customer behavior: Busiest days and times, monthly trend of orders, and average pizzas per order.
+
 Product performance: Sales by pizza category and size.
 
 Business Impact:
